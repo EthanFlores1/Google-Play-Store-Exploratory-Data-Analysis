@@ -1,7 +1,5 @@
 # Google Play Store Exploratory Data Analysis
-
 ![Google-Play-Logo cropped](https://github.com/EthanFlores1/Google-Play-Store-Exploratory-Data-Analysis/assets/110417575/ef542e06-6100-4d3d-be16-6adb9a7d8a9c)
-
 # Table of Contents
 - Background & Dataset
 - Workflow
@@ -13,7 +11,7 @@ Google Play Store is the official digital distribution platform for Android user
 
 # Workflow
 The overall workflow of this analysis project went as following:
-  - 
+  Importing Libraries --> Data Exploration --> Data Preprocessing (Cleaning) --> Correlation Analysis & Visualization --> Drawing Conclusions
 
 
 
