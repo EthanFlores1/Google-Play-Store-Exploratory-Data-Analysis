@@ -3,7 +3,6 @@
 # Table of Contents
 - Background & Dataset
 - Workflow
-- Libraries
 - Purpose
 
 # Background & Dataset
@@ -11,7 +10,15 @@ Google Play Store is the official digital distribution platform for Android user
 
 # Workflow
 The overall workflow of this analysis project went as following:
-  Importing Libraries --> Data Exploration --> Data Preprocessing (Cleaning) --> Correlation Analysis & Visualization --> Drawing Conclusions
+- Importing Libraries
+- Data Exploration
+- Data Preprocessing (Cleaning)
+- Correlation Analysis & Visualization
+- Drawing Conclusions
+
+# Purpose
+The purpose of this project was to gain a comprehensive understanding of the Google Play Store dataset. Through utilizing various data manipulation techniques, I was able to detect valuable insights and trends while generating data visualizations to better communicate my analytical findings effectively.
+
 
 
 
