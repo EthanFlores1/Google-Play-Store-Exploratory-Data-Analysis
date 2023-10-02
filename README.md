@@ -1,5 +1,6 @@
 # Google Play Store Exploratory Data Analysis
 
-![Google-Play-Logo (1)](https://github.com/EthanFlores1/Google-Play-Store-Exploratory-Data-Analysis/assets/110417575/fe46dde2-2e58-4867-8cf4-6c760d6ea79e)
+![Google-Play-Logo](https://github.com/EthanFlores1/Google-Play-Store-Exploratory-Data-Analysis/assets/110417575/cc19e951-ff79-4d66-9b10-e5f48c2eedd1)
+
 
 
